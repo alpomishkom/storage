@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246421354661",
+    "project_id": "zipfille-cfa12",
+    "storage_bucket": "zipfille-cfa12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246421354661:android:281650c25add468148b54c",
+        "android_client_info": {
+          "package_name": "com.example.storeych"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0CblbTGME9aAwoM1Njwmtnek7i8U6ziA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
